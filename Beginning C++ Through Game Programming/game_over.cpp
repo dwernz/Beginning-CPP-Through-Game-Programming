@@ -1,5 +1,5 @@
 // Game Over
-// A first C++ program
+// A first C++ Program
 
 #include <iostream>
 
